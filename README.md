@@ -94,9 +94,7 @@ Scalability: Large-scale systems can be resource-intensive, requiring significan
 
 Privacy Concerns: Handling user data to make recommendations can raise privacy issues.
 
-For a deeper understanding of the cold start problem in recommender systems and how to address it, refer to my article: Recommender 
-
-Systems: Addressing the Cold Start Problem.
+For a deeper understanding of the cold start problem in recommender systems and how to address it, refer to my article.
 
 Data Sources
 
@@ -105,6 +103,13 @@ All data used in this project was obtained from Kaggle. Special thanks to the co
 References
 
 Analytics Vidhya: A comprehensive source of tutorials and articles on machine learning and data science.
+https://www.analyticsvidhya.com/blog/2021/07/recommendation-system-understanding-the-basic-concepts/
 
 FreeCodeCamp: Offers extensive resources on coding and data science, including articles and tutorials.
-#My Medium Article: Recommender Systems: Addressing the Cold Start Problem.
+https://www.freecodecamp.org/news/how-to-build-a-movie-recommendation-system-based-on-collaborative-filtering/
+
+Towards Data Science: A comprehensive source of tutorials and articles on machine learning and data science.
+https://towardsdatascience.com/recommender-systems-a-complete-guide-to-machine-learning-models-96d3f94ea748
+
+My Medium Article: Recommender Systems: Addressing the Cold Start Problem.
+https://medium.com/@euodolokor/recommender-systems-adressing-the-cold-start-problem-e943957a7564
